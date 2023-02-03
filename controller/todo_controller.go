@@ -6,9 +6,9 @@ import (
 	"path"
 	"strconv"
 
-	"github.com/koga456/sample-api/controller/dto"
-	"github.com/koga456/sample-api/model/entity"
-	"github.com/koga456/sample-api/model/repository"
+	"github.com/RyutaKinoshitaSALTO/GoAPI/controller/dto"
+	"github.com/RyutaKinoshitaSALTO/GoAPI/entity"
+	"github.com/RyutaKinoshitaSALTO/GoAPI/repository"
 )
 
 type TodoController interface {

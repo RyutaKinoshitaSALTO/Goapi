@@ -3,8 +3,8 @@ package main
 import (
 	"net/http"
 
-	"github.com/koga456/sample-api/controller"
-	"github.com/koga456/sample-api/model/repository"
+	"github.com/RyutaKinoshitaSALTO/GoAPI/controller"
+	"github.com/RyutaKinoshitaSALTO/GoAPI/model/repository"
 )
 
 var tr = repository.NewTodoRepository()

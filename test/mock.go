@@ -4,7 +4,7 @@ import (
 	"errors"
 	"net/http"
 
-	"github.com/koga456/sample-api/model/entity"
+	"github.com/RyutaKinoshitaSALTO/GoAPI/model/entity"
 )
 
 type MockTodoController struct {

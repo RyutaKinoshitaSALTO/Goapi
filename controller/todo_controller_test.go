@@ -6,8 +6,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/koga456/sample-api/controller/dto"
-	"github.com/koga456/sample-api/test"
+	"github.com/RyutaKinoshitaSALTO/GoAPI/controller/dto"
+	"github.com/RyutaKinoshitaSALTO/GoAPI/test"
 )
 
 func TestGetTodos_NotFound(t *testing.T) {
