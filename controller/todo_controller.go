@@ -7,8 +7,8 @@ import (
 	"strconv"
 
 	"github.com/RyutaKinoshitaSALTO/GoAPI/controller/dto"
-	"github.com/RyutaKinoshitaSALTO/GoAPI/entity"
-	"github.com/RyutaKinoshitaSALTO/GoAPI/repository"
+	"github.com/RyutaKinoshitaSALTO/GoAPI/model/entity"
+	"github.com/RyutaKinoshitaSALTO/GoAPI/model/repository"
 )
 
 type TodoController interface {
