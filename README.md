@@ -16,3 +16,6 @@
 % cd controller
 % go test
 ```
+
+今回実行の際にmakeコマンドで実行しており、下記URLサイトを参考にセットアップを行った。
+https://zenn.dev/genki86web/articles/6e61c167fbe926
